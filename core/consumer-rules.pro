@@ -86,8 +86,5 @@ public *;
 # Uncomment if you use RxJava
 #-dontwarn java.util.concurrent.Flow*
 
--dontwarn okhttp3.internal.platform.ConscryptPlatform
-
-
 
 
